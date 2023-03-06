@@ -31,7 +31,7 @@ O programa realiza diversos cálculos e exibe a porcentagem de acertos do aluno,
 
 Este programa gera tabelas simples com base nos dados inseridos pelo usuário.
 
-[Clique aqui para acessar o exercicio 3](https://kleberalbinomoreira.com.br/php/004_Gerador_Tabelas/index.php)
+[Clique aqui para acessar o exercicio 4](https://kleberalbinomoreira.com.br/php/004_Gerador_Tabelas/index.php)
 
 ---------------------
 #### Feito por: [Kléber Albino Moiereira](https://github.com/kleber0a0m) e [Tiago Mateus Carvalho](https://github.com/jinkijack) 
